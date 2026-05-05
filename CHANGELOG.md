@@ -10,3 +10,6 @@ Pinned scipy version
 2026-05-05T13:30:00 -deleted requirement files
 Cleaned redundant text files
 
+2026-05-05T13:39:00 -added requirements.txt 1.39pm 5th may
+Finalized dependencies
+
