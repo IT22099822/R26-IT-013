@@ -16,3 +16,6 @@ Finalized dependencies
 2026-05-07T14:20:00 -changed component 4 logic
 Updated C4 engine
 
+2026-05-09T16:00:00 -added markdown preview for admin node content uploads
+Admin UI update
+
