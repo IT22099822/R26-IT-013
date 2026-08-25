@@ -22,3 +22,6 @@ Admin UI update
 2026-08-22T10:00:00 -setup item response theory module
 Added IRT 2PL model base
 
+2026-08-25T13:10:00 -add difficulty and discrimination parameters
+Calibrated IRT params
+
