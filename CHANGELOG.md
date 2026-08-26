@@ -22,3 +22,6 @@ Admin UI update
 2026-08-24T09:30:00 -init dropout risk module
 Setup classifier architecture
 
+2026-08-26T11:15:00 -add student feature extraction for dropout model
+Feature pipeline built
+
