@@ -25,3 +25,6 @@ Added IRT 2PL model base
 2026-08-25T13:10:00 -add difficulty and discrimination parameters
 Calibrated IRT params
 
+2026-08-27T15:00:00 -optimize IRT student ability estimation
+Ability theta estimation optimized
+
