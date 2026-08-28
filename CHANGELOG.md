@@ -25,3 +25,6 @@ Setup classifier architecture
 2026-08-26T11:15:00 -add student feature extraction for dropout model
 Feature pipeline built
 
+2026-08-28T14:40:00 -integrate threshold metrics for warning triggers
+Added risk levels
+
