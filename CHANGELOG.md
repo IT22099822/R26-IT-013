@@ -28,3 +28,6 @@ Calibrated IRT params
 2026-08-27T15:00:00 -optimize IRT student ability estimation
 Ability theta estimation optimized
 
+2026-08-29T11:45:00 -fix parameter convergence issues in IRT
+Convergence fix applied
+
