@@ -28,3 +28,6 @@ Feature pipeline built
 2026-08-28T14:40:00 -integrate threshold metrics for warning triggers
 Added risk levels
 
+2026-08-30T16:20:00 -dropout risk dashboard UI updates
+Added risk badge UI
+
