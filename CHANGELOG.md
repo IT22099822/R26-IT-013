@@ -31,3 +31,6 @@ Updated feedback strings
 2026-08-29T12:00:00 -pp2 completion v1
 Pilot platform stage 2 complete
 
+2026-08-31T14:00:00 -C4 frontend updates
+Connected C4 React components
+
