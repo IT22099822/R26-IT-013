@@ -22,3 +22,6 @@ Admin UI update
 2026-10-18T08:30:00 -Stop tracking .env
 Environment file cleanup
 
+2026-10-18T09:45:00 -Track .env again
+Re-added template tracking
+
