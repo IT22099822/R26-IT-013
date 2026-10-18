@@ -19,3 +19,6 @@ Updated C4 engine
 2026-05-09T16:00:00 -added markdown preview for admin node content uploads
 Admin UI update
 
+2026-10-18T08:30:00 -Stop tracking .env
+Environment file cleanup
+
