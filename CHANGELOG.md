@@ -28,3 +28,6 @@ Re-added template tracking
 2026-10-18T11:00:00 -Fix VARK and dropout JSON parsing, optimised VARK model, pin scikit-learn 1.6.1, add unit tests (61 passing)
 VARK core fix
 
+2026-10-18T13:15:00 -Fix weekly_agg crash on NULL quiz scores and same-week re-run trend; add 8 tests
+Aggregation crash fix
+
