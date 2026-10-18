@@ -31,3 +31,6 @@ VARK core fix
 2026-10-18T13:15:00 -Fix weekly_agg crash on NULL quiz scores and same-week re-run trend; add 8 tests
 Aggregation crash fix
 
+2026-10-18T15:40:00 -Merge IT22099822: VARK, dropout and weekly_agg fixes
+Refinement merge
+
