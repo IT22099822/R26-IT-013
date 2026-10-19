@@ -19,6 +19,29 @@ Updated C4 engine
 2026-05-09T16:00:00 -added markdown preview for admin node content uploads
 Admin UI update
 
+2026-10-18T08:30:00 -Stop tracking .env
+Environment file cleanup
+
+2026-10-18T09:45:00 -Track .env again
+Re-added template tracking
+
+2026-10-18T11:00:00 -Fix VARK and dropout JSON parsing, optimised VARK model, pin scikit-learn 1.6.1, add unit tests (61 passing)
+VARK core fix
+
+2026-10-18T13:15:00 -Fix weekly_agg crash on NULL quiz scores and same-week re-run trend; add 8 tests
+Aggregation crash fix
+
+2026-10-18T15:40:00 -Merge IT22099822: VARK, dropout and weekly_agg fixes
+Refinement merge
+
+2026-10-19T07:20:00 -Raise VARK override threshold to 0.7; add threshold tests and BKT/IRT accuracy evaluation script
+Threshold tuning
+
+2026-10-19T09:00:00 -LEARN Coach chat and personalised intervention messages with questions-to-mastery; 22 tests
+Coach engine update
+
+2026-10-19T11:00:00 -Add LEARN Coach chat window to dashboard, check-in pop-up and notifications
+UI Integration complete
 2026-08-22T10:00:00 -setup item response theory module
 Added IRT 2PL model base
 
