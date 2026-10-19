@@ -40,3 +40,6 @@ Threshold tuning
 2026-10-19T09:00:00 -LEARN Coach chat and personalised intervention messages with questions-to-mastery; 22 tests
 Coach engine update
 
+2026-10-19T11:00:00 -Add LEARN Coach chat window to dashboard, check-in pop-up and notifications
+UI Integration complete
+
