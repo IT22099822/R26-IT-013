@@ -37,3 +37,6 @@ Refinement merge
 2026-10-19T07:20:00 -Raise VARK override threshold to 0.7; add threshold tests and BKT/IRT accuracy evaluation script
 Threshold tuning
 
+2026-10-19T09:00:00 -LEARN Coach chat and personalised intervention messages with questions-to-mastery; 22 tests
+Coach engine update
+
