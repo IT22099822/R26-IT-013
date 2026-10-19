@@ -34,3 +34,6 @@ Aggregation crash fix
 2026-10-18T15:40:00 -Merge IT22099822: VARK, dropout and weekly_agg fixes
 Refinement merge
 
+2026-10-19T07:20:00 -Raise VARK override threshold to 0.7; add threshold tests and BKT/IRT accuracy evaluation script
+Threshold tuning
+
